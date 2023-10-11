@@ -1,6 +1,6 @@
-# Projeto Isabela Castelli
+# Projeto Flora Miyasaki
 
-<img src=".github/Capa.png" >
+<img src=".github/banner.png" >
 
 # Tech
 
@@ -18,7 +18,3 @@
 [phosphoricons]: https://phosphoricons.com
 [radix_ui]: https://www.radix-ui.com
 [keen_slider]: https://keen-slider.io/
-
-## :page_with_curl: License
-
-This project is under a custom license - [Luís Vinicius Capelletto Landing Page License](LICENSE)
