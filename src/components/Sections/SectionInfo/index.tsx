@@ -28,12 +28,12 @@ export function SectionInfo() {
             <InfotItems>
               <InfotItem>
                 <Heading size="md" color='black'>Consulta Psicológica</Heading>
-                <Text color="gray2">Presencial em consultório</Text>
+                <Text color="gray1">Presencial em consultório</Text>
               </InfotItem>
 
               <InfotItem>
                 <Heading size="md" color='black'>Telemedicina</Heading>
-                <Text color="gray2">Atendimento online</Text>
+                <Text color="gray1">Atendimento online</Text>
               </InfotItem>
             </InfotItems>
           </InfoContent>
