@@ -54,7 +54,7 @@ export function SectionFinal() {
         >
           <Image
             src={Final}
-            alt="Foto de perfil da Psicóloga Isabela Castelli."
+            alt="Foto de perfil da Psicóloga Flora Miyasaki."
           />
         </FinalImageWrapper>
       </FinalWrapper>

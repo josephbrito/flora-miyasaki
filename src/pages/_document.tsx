@@ -30,8 +30,8 @@ export default class MyDocument extends Document {
           <Favicon />
 
           <SEO
-            title="Dra. Isabela Castelli - Psicóloga Clínica e Hospitalar"
-            description="Dra. Isabela Castelli - Psicologia Clínica e Hospitalar - A sua saúde mental é prioridade! Um acompanhamento psicológico bem feito vai ajudá-lo a compreender os seus sentimentos, seu modo de pensar e de agir."
+            title="Flora Miyasaki - Psicoterapeuta"
+            description="Flora Miyasaki - Psicoterapeuta."
             url={process.env.NEXT_PUBLIC_URL}
           />
 

@@ -24,7 +24,7 @@ export function SectionHero() {
         <Image
           priority
           src={Hero}
-          alt="Foto profissional da psicóloga Isabela castelli sentada e com as mãos em um notebook cinza."
+          alt="Foto profissional Flora Miyasaki."
         />
       </HeroImageMobileWrapper>
 
@@ -32,7 +32,7 @@ export function SectionHero() {
         <Image
           priority
           src={Hero}
-          alt="Foto profissional da psicóloga Isabela castelli sentada e com as mãos em um notebook cinza."
+          alt="Foto profissional Flora Miyasaki."
         />
       </HeroImageWrapper>
     </HeroWrapper>

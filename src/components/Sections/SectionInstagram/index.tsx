@@ -23,7 +23,7 @@ export function SectionInstagram() {
           <InstaProfileImageWrapper>
             <Image
               src={InstaProfile}
-              alt="Imagem de perfil do instagram da Isabela Castelli."
+              alt="Imagem de perfil do instagram da Flora Miyasaki."
             />
           </InstaProfileImageWrapper>
 
