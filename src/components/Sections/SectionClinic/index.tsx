@@ -34,15 +34,18 @@ export function SectionClinic() {
           <ClinicDescription>
             <Text asChild>
               <p>
-                Atenção personalizada através do uso de métodos e técnicas da
-                abordagem cognitiva comportamental.
+             Tenha certeza de que tudo que for dito entre nós ficará apenas entre nós. É tão
+             importante o vínculo entre o paciente e o seu terapeuta. Além disso, 
+             sendo online, posso atender um número maior de pacientes e fazer com que este
+             meu trabalho se torne agradável, sem que precise se deslocar do seu ambiente. 
+             Assim, você poderá escolher um horário que seja melhor para você.
               </p>
             </Text>
 
             <Text asChild>
               <p>
-                Cada sessão de terapia é elaborada exclusivamente para a demanda
-                de cada paciente com o objetivo de compreender, em profundidade,
+                Cada sessão de terapia é elaborada exclusivamente para 
+                cada paciente com o objetivo de compreender, em profundidade,
                 os problemas apresentados e fornecer ao paciente ferramentas
                 baseadas em evidências científicas para melhora da perspectiva e
                 qualidade de vida.
@@ -51,12 +54,11 @@ export function SectionClinic() {
 
             <Text asChild>
               <p>
-                Trabalhamos apenas com atendimento particular. Não atendemos
-                convênios e planos de saúde. Mas não se preocupe. Se você possui
-                algum convênio ou plano de saúde, pode realizar seu agendamento
-                na modalidade particular e nós iremos te orientar e auxiliar,
-                para que você solicite o reembolso junto ao convênio e peça,
-                ainda, dedução no Imposto de Renda.
+              atendimento é de segunda a sexta, a partir das 14 horas até as 20 horas. 
+              E, certamente, aos sábados, domingos e feriados que estejam no calendário
+              oficial brasileiro. Naturalmente, também atendo estrangeiros, cujo fuso 
+              horário requer uma demanda diferenciada. Devido ao fato de falar outras 
+              línguas, isso tem sido muito satisfatório nos últimos anos.
               </p>
             </Text>
           </ClinicDescription>

@@ -28,7 +28,7 @@ export function SectionInfo() {
             <InfotItems>
               <InfotItem>
                 <Heading size="md" color='black'>Consulta Psicológica</Heading>
-                <Text color="gray1">Presencial em consultório</Text>
+                <Text color="gray1">Atendimento online</Text>
               </InfotItem>
 
               <InfotItem>
@@ -47,12 +47,10 @@ export function SectionInfo() {
         viewport={{ once: true }}
       >
         <InfoWarningText size="sm" color="black">
-          Trabalhamos apenas com atendimento particular. Não atendemos convênios
-          e planos de saúde. Mas não se preocupe. Se você possui algum convênio
-          ou plano de saúde, pode realizar seu agendamento na modalidade
-          particular e nós iremos te orientar e auxiliar, para que você solicite
-          o reembolso junto ao convênio e peça, ainda, dedução no Imposto de
-          Renda.
+         Trabalhamos atendendo apenas de forma online, 
+         por ser mais prático e deixar o custo mais acessível,
+         tanto para mim quanto para o meu paciente. Não há necessidade
+         de pagar por um consultório, como seria de praxe.
         </InfoWarningText>
       </InfoWarning>
     </>
