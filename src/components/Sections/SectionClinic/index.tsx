@@ -34,30 +34,29 @@ export function SectionClinic() {
           <ClinicDescription>
             <Text asChild>
               <p>
-             Tenha certeza de que tudo que for dito entre nós ficará apenas entre nós. É tão
-             importante o vínculo entre o paciente e o seu terapeuta. Além disso, 
-             sendo online, posso atender um número maior de pacientes e fazer com que este
-             meu trabalho se torne agradável, sem que precise se deslocar do seu ambiente. 
-             Assim, você poderá escolher um horário que seja melhor para você.
+              Tenha certeza de que tudo o que for dito entre nós ficará apenas entre nós. 
+              O vínculo entre o paciente e o terapeuta é de extrema importância. Além disso, 
+              ao ser online, posso atender um maior número de pacientes e tornar o meu trabalho 
+              mais acessível, sem que você precise se deslocar do seu ambiente. Dessa forma, 
+              você poderá escolher um horário que seja mais conveniente para você.
               </p>
             </Text>
 
             <Text asChild>
               <p>
-                Cada sessão de terapia é elaborada exclusivamente para 
-                cada paciente com o objetivo de compreender, em profundidade,
-                os problemas apresentados e fornecer ao paciente ferramentas
-                baseadas em evidências científicas para melhora da perspectiva e
-                qualidade de vida.
+              Cada sessão de terapia é elaborada exclusivamente para cada paciente, 
+              com o objetivo de compreender, em profundidade, os problemas apresentados 
+              e fornecer ao paciente ferramentas embasadas em evidências científicas 
+              para melhorar a perspectiva e a qualidade de vida.
               </p>
             </Text>
 
             <Text asChild>
               <p>
-              atendimento é de segunda a sexta, a partir das 14 horas até as 20 horas. 
-              E, certamente, aos sábados, domingos e feriados que estejam no calendário
-              oficial brasileiro. Naturalmente, também atendo estrangeiros, cujo fuso 
-              horário requer uma demanda diferenciada. Devido ao fato de falar outras 
+              O atendimento ocorre de segunda a sexta-feira, das 14 horas às 20 horas, e, 
+              é claro, também aos sábados, domingos e feriados que estejam no calendário 
+              oficial brasileiro. Naturalmente, atendo também estrangeiros, cujos fusos 
+              horários requerem uma abordagem personalizada. Devido ao fato de falar outras 
               línguas, isso tem sido muito satisfatório nos últimos anos.
               </p>
             </Text>

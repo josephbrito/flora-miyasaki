@@ -30,8 +30,8 @@ export function SectionFinal() {
 
           <Text asChild>
             <p>
-              Entre em contato para saber mais sobre formas de pagamento 
-              e valore para mais informações, ficarei feliz em te atender.
+              Entre em contato para saber mais sobre as formas de pagamento 
+              e valores. Ficarei feliz em te atender.
             </p>
           </Text>
 
