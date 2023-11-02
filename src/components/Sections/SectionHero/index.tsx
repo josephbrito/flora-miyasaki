@@ -24,7 +24,7 @@ export function SectionHero() {
         <Image
           priority
           src={Hero}
-          alt="Foto profissional Flora Miyasaki."
+          alt="Foto profissional Flora Miyazaki."
         />
       </HeroImageMobileWrapper>
 
@@ -32,7 +32,7 @@ export function SectionHero() {
         <Image
           priority
           src={Hero}
-          alt="Foto profissional Flora Miyasaki."
+          alt="Foto profissional Flora Miyazaki."
         />
       </HeroImageWrapper>
     </HeroWrapper>

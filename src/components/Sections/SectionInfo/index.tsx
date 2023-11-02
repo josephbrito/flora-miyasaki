@@ -27,7 +27,7 @@ export function SectionInfo() {
 
             <InfotItems>
               <InfotItem>
-                <Heading size="md" color='black'>Consulta Psicológica</Heading>
+                <Heading size="md" color='black'>Consulta Psicoterapeuta</Heading>
                 <Text color="gray1">Atendimento online</Text>
               </InfotItem>
 
@@ -50,7 +50,8 @@ export function SectionInfo() {
          Trabalhamos atendendo apenas de forma online, 
          por ser mais prático e deixar o custo mais acessível,
          tanto para mim quanto para o meu paciente. Não há necessidade
-         de pagar por um consultório, como seria de praxe.
+         de pagar por um consultório, como seria de praxe, sendo assim mais
+         em conta para ambos.
         </InfoWarningText>
       </InfoWarning>
     </>

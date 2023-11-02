@@ -23,7 +23,8 @@ export function Navbar() {
           <Image
             priority
             src={Logo}
-            alt="Logotipo da psicoterapeuta Flora Miyasaki."
+            alt="Logotipo da psicoterapeuta Flora Miyazaki."
+            style={{marginBottom: '30px'}}
           />
         </Link>
 

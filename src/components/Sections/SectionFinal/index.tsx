@@ -24,7 +24,8 @@ export function SectionFinal() {
           <Heading size="lg" asChild color='black'>
             <h1>
               A vida pode ser difícil, e a ajuda de um Psicoterapeuta
-              profissional pode ser muito efetiva.
+              pode ser de muita utilidade para sanar os problemas da sua 
+              vida, aqueles que te incomodam.
             </h1>
           </Heading>
 
@@ -54,7 +55,7 @@ export function SectionFinal() {
         >
           <Image
             src={Final}
-            alt="Foto de perfil da Psicóloga Flora Miyasaki."
+            alt="Foto de perfil da Psicóloga Flora Miyazaki."
           />
         </FinalImageWrapper>
       </FinalWrapper>

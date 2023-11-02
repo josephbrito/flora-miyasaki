@@ -19,11 +19,14 @@ import {
   FooterSocialLinks,
   FooterWrapper
 } from './styles'
+import { WhatsappLogo } from 'phosphor-react'
 
 export function Footer() {
   // get current year
   const currentYear = new Date().getFullYear()
-
+  const message = encodeURIComponent(
+    'Olá Flora, gostaria de marcar uma consulta.'
+  )
   return (
     <FooterWrapper>
       <FooterContainer>
@@ -53,13 +56,16 @@ export function Footer() {
 
             <FooterSocialLinks>
               <FooterSocialLink
-                href="https://www.instagram.com/floramiyasaki2/"
-                title="floramiyasaki2"
-                target="_blank"
-                rel="noopener noreferrer"
+               href={`https://wa.me/5511983976224?text=${message}`}
+               title="Agendar consulta!"
+               target="_blank"
+               style={{color:"#5bdd2f"}}
+               rel="noopener noreferrer"
               >
-                <Image src={InstagramWhite} alt="Logo do Instagram." />
+            <WhatsappLogo size={24} weight="regular" style={{color:"#fff"}} />
               </FooterSocialLink>
+
+             
             </FooterSocialLinks>
           </FooterLeft>
 
@@ -72,31 +78,26 @@ export function Footer() {
             </FooterImageWrapper>
 
             <Text size="xs" color="gray1">
-              Psicoterapeuta Flora Miyasaki.
-            </Text>
-
-            <Text size="xs" color="gray1">
-              <strong>Endereço: </strong>
-              Parque São George
-            </Text>
-
-            <Text size="xs" color="gray1">
               <strong>Telefone: </strong>
               +55 (11) 98397-6224
+            </Text>
+            <Text size="xs" color="gray1">
+              <strong>E-mail: </strong>
+              flora.miyasaki@gmail.com
             </Text>
           </FooterRight>
         </FooterContent>
 
         <FooterEnd>
           <Text size="xs">Todos os direitos reservados.</Text>
-          <Text size="xs">©{currentYear} - Psicóloga Flora Miyasaki.</Text>
+          <Text size="xs">©{currentYear} - Psicoterapeuta Flora Miyazaki.</Text>
 
           <Text size="xs">
             Desenvolvido com ❤️ por{' '}
             <TextLink
               size="xs"
               href="https://github.com/josephbrito"
-              title="Github de Luís V. Capelletto."
+              title="Github de José de Brito."
               target="_blank"
             >
               José de Brito

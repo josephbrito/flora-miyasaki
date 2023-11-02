@@ -7,8 +7,13 @@ import {
   HeroSocialLinks,
   HeroSocialWrapper
 } from './styles'
+import { ButtonLink } from 'components/Button/ButtonLink'
+import { WhatsappLogo } from 'phosphor-react'
 
 export function HeroSocial() {
+  const message = encodeURIComponent(
+    'Olá Flora, gostaria de marcar uma consulta.'
+  )
   return (
     <HeroSocialWrapper
       initial={{ opacity: 0, y: -50 }}
@@ -22,13 +27,23 @@ export function HeroSocial() {
       </Text>
 
       <HeroSocialLinks>
+      <HeroSocialLink
+            href={`https://wa.me/5511983976224?text=${message}`}
+            title="Agendar consulta!"
+            target="_blank"
+            style={{color:"#5bdd2f"}}
+            rel="noopener noreferrer"
+          >
+            <WhatsappLogo size={24} weight="regular" />
+
+          </HeroSocialLink>
+
         <HeroSocialLink
-          href="https://www.instagram.com/floramiyasaki2"
-          title="floramiyasaki2"
+          href="mailto:flora.miyasaki@gmail.com"
+          title="flora.miyasaki@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image src={Instagram} alt="Logo do Instagram." />
 
           <Text size="sm" color="white" weight="medium">
             floramiyasaki2

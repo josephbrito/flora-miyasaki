@@ -5,7 +5,7 @@ export const NavbarWrapper = styled('header', {
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
-
+  height: '18vh',
   background: '$white',
 
   width: '100%',
@@ -13,8 +13,6 @@ export const NavbarWrapper = styled('header', {
 
   position: 'fixed',
   top: 0,
-  left: 0,
-  right: 0,
   zIndex: 4,
 
   variants: {

@@ -8,7 +8,7 @@ export const FooterWrapper = styled('footer', {
   alignItems: 'center',
   padding: '2.5rem 1.5rem',
   paddingBottom: '1.25rem',
-  background: '$gray6',
+  background: '$black',
 
   '@bp2': {
     padding: '2.5rem 1.25rem',

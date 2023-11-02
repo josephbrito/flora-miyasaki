@@ -17,36 +17,36 @@ export const gallery: GalleryItem[] = [
   {
     id: 1,
     src: Gallery1,
-    alt: 'Flora Miyasaki.'
+    alt: 'Flora Miyazaki.'
   },
   {
     id: 2,
     src: Gallery2,
-    alt: 'Flora Miyasaki.'
+    alt: 'Flora Miyazaki.'
   },
   {
     id: 3,
     src: Gallery3,
-    alt: 'Flora Miyasaki.'
+    alt: 'Flora Miyazaki.'
   },
   {
     id: 4,
     src: Gallery4,
-    alt: 'Flora Miyasaki.'
+    alt: 'Flora Miyazaki.'
   },
   {
     id: 5,
     src: Gallery5,
-    alt: 'Flora Miyasaki.'
+    alt: 'Flora Miyazaki.'
   },
   {
     id: 6,
     src: Gallery6,
-    alt: 'Flora Miyasaki.'
+    alt: 'Flora Miyazaki.'
   },
   {
     id: 7,
     src: Gallery7,
-    alt: 'Flora Miyasaki.'
+    alt: 'Flora Miyazaki.'
   }
 ]

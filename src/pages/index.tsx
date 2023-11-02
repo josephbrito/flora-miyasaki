@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Psicoterapeuta Flora Miyasaki</title>
+        <title>Psicoterapeuta Flora Miyazaki</title>
       </Head>
 
       <Navbar />
@@ -28,7 +28,7 @@ export default function Home() {
         <SectionClinic />
         <SectionServices />
         <SectionInstagram />
-        <SectionTestimonials />
+        {/* <SectionTestimonials /> */}
         <SectionFinal />
       </HomeMain>
 

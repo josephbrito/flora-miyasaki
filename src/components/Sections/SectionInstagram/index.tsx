@@ -15,20 +15,20 @@ export function SectionInstagram() {
         viewport={{ once: true }}
       >
         <InstaTitle
-          href="https://www.instagram.com/floramiyasaki2"
-          title="floramiyasaki2"
+          href="mailto:flora.miyasaki@gmail.com"
+          title="flora.miyasaki@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <InstaProfileImageWrapper>
             <Image
               src={InstaProfile}
-              alt="Imagem de perfil do instagram da Flora Miyasaki."
+              alt="Imagem de perfil do Google da Flora Miyazaki."
             />
           </InstaProfileImageWrapper>
 
           <Heading asChild size="md">
-            <h1>floramiyasaki2</h1>
+            <h1>flora.miyasaki@gmail.com</h1>
           </Heading>
         </InstaTitle>
       </InstaWrapper>

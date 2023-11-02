@@ -20,14 +20,14 @@ export function HeroHeading() {
 
       <Heading color="black" size="xl" asChild>
         <h1>
-          A sua saúde mental <strong> é prioridade!</strong>
+          A sua Psique <strong> é uma prioridade!</strong>
         </h1>
       </Heading>
 
       <Text color="black" size="lg" asChild>
         <p>
-          Um acompanhamento psicológico bem feito vai ajudá-lo a compreender os
-          seus sentimentos, seu modo de pensar e de agir.
+          Um acompanhamento psicoterapêutico bem feito irá ajudá-lo a entender os
+          seus sentimentos, seu modo de pensar e de agir frente à vida.
         </p>
       </Text>
 

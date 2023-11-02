@@ -23,8 +23,8 @@ export function SectionServices() {
       >
         <Heading asChild size="md" color='black'>
           <h1>
-            A Terapia não é um local de julgamento, mas sim de aconchego,
-            acolhimento e transformação.
+            A Psicoterapia não é um local de julgamento, mas sim de aconchego,
+            acolhimento e transformação pessoal.
           </h1>
         </Heading>
 
@@ -32,7 +32,7 @@ export function SectionServices() {
           <ServicesImageWrapper>
             <Image
               src={Services}
-              alt="Fotos da Flora Miyasaki."
+              alt="Fotos da Flora Miyazaki."
             />
           </ServicesImageWrapper>
 
@@ -47,42 +47,8 @@ export function SectionServices() {
               </Text>
             </ServiceItem>
 
-            <ServiceItem>
-              <Heading asChild size="xs" color="pink">
-                <h2>Avaliação Psicológica</h2>
-              </Heading>
 
-              <Text color="white" size="sm" asChild>
-                <p>
-                  Avaliações para procedimentos invasivos (cirurgias) e testagem
-                  para definição diagnóstico.
-                </p>
-              </Text>
-            </ServiceItem>
 
-            <ServiceItem>
-              <Heading asChild size="xs" color="pink">
-                <h2>Traumas Psicológicos</h2>
-              </Heading>
-
-              <Text color="white" size="sm" asChild>
-                <p>Foco nas experiências traumáticas.</p>
-              </Text>
-            </ServiceItem>
-
-            <ServiceItem>
-              <Heading asChild size="xs" color="pink">
-                <h2>Teste de Rorschach</h2>
-              </Heading>
-
-              <Text color="white" size="sm" asChild>
-                <p>
-                  Técnica de avaliação psicológica, comumente denominada de
-                  teste projetivo, ou mais recentemente de método de
-                  autoexpressão.
-                </p>
-              </Text>
-            </ServiceItem>
           </ServicesList>
         </ServicesContainer>
       </ServicesWrapper>

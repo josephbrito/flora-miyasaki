@@ -1,4 +1,4 @@
-# Projeto Flora Miyasaki
+# Projeto Flora Miyazaki
 
 <img src=".github/banner.png" >
 
