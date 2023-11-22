@@ -90,7 +90,7 @@ export function Footer() {
           <Text size="xs">©{currentYear} - Psicoterapeuta Flora D.</Text>
 
           <Text size="xs">
-            Desenvolvido com ❤️ por 
+            Desenvolvido com ❤️ por {/* */}
             <TextLink
               size="xs"
               href="https://github.com/josephbrito"
