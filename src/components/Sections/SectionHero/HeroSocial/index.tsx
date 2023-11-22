@@ -1,4 +1,4 @@
-import { Doctoralia, Instagram } from 'components/@constants'
+import { Doctoralia, Gmail, Instagram } from 'components/@constants'
 import { Text } from 'components/Text'
 import Image from 'next/image'
 import {
@@ -28,7 +28,7 @@ export function HeroSocial() {
 
       <HeroSocialLinks>
       <HeroSocialLink
-            href={`https://wa.me/5511983976224?text=${message}`}
+            href={`https://wa.me/5511991705111?text=${message}`}
             title="Agendar consulta!"
             target="_blank"
             style={{color:"#5bdd2f"}}
@@ -44,6 +44,8 @@ export function HeroSocial() {
           target="_blank"
           rel="noopener noreferrer"
         >
+
+          <Image src={Gmail} />
 
           <Text size="sm" color="white" weight="medium">
             floramiyasaki2

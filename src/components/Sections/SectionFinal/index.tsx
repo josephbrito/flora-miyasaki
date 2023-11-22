@@ -37,7 +37,7 @@ export function SectionFinal() {
           </Text>
 
           <ButtonLink
-            href={`https://wa.me/5511983976224?text=${message}`}
+            href={`https://wa.me/5511991705111?text=${message}`}
             title="Agendar consulta!"
             target="_blank"
             size="lg"

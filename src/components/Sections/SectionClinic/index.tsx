@@ -44,7 +44,7 @@ export function SectionClinic() {
 
             <Text asChild>
               <p>
-              Cada sessão de terapia é elaborada exclusivamente para cada paciente, 
+              Cada sessão de terapia é elaborada exclusiva para cada paciente, 
               com o objetivo de compreender a profundidade de seus problemas apresentados 
               e fornecer ao paciente ferramentas embasadas em evidências científicas 
               para melhorar a perspectiva e a qualidade de sua vida.
@@ -59,7 +59,7 @@ export function SectionClinic() {
           </ClinicDescription>
 
           <ButtonLink
-            href={`https://wa.me/5511983976224?text=${message}`}
+            href={`https://wa.me/5511991705111?text=${message}`}
             title="Agendar consulta!"
             target="_blank"
             size="lg"

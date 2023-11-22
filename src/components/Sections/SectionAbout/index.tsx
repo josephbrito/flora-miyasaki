@@ -40,11 +40,9 @@ export function SectionAbout() {
             <Text asChild>
               <p>
               Olá, eu sou Flora, psicoterapeuta. Escolhi esta profissão clínica por encontrar afinidade com minha personalidade.
-              Para chegar a essa possibilidade de afirmar, com satisfação, que tenho mais de 20 anos de atendimentos clínicos, 
-              foi uma longa jornada. Escolhi exatamente essa profissão como forma de trilhar um caminho para auxiliar o próximo. 
-              Naturalmente, trabalhei em vários locais e me dediquei com muito afinco. Passei por várias instituições onde trabalhei, 
-              e na minha área sou tida como referência, sempre buscando novos caminhos clínicos para o atendimento. Isso demanda de mim
-              um frequente estudo e aprimoramento constante.
+              Para chegar a essa possibilidade de afirmar, com satisfação, que tenho mais de 20 anos de atendimento clínico.
+              Foi uma longa jornada. Escolhi exatamente essa profissão como forma de trilhar um caminho para auxiliar o próximo. 
+              Passei por várias instituições onde trabalhei, e na minha área sou tida como referência.
               </p>
             </Text>
 
@@ -52,14 +50,11 @@ export function SectionAbout() {
               <p>
               Tenho para mim que essa é minha missão: auxiliar as pessoas a se conectarem consigo mesmas, 
               buscando dentro de si o seu melhor. Na verdade, apenas auxilio o paciente a ser o próprio 
-              autor de sua história. Estou ali como uma coadjuvante para auxiliá-lo a seguir e reencontrar
-              seu próprio caminho. Após algum tempo de tratamento, ele irá notar uma diferença em sí mesmo, 
-              pois aquilo que era um sofrimento para ele, ele conseguirá através da terapia e auxílio a 
-              ressignificar a suas dores, as quais servirão como um trampolim para sua vitória, usando o que
-              o fazia mal como uma proposta de subir um degrau a cada dia e chegar ao pódio. Seja este pódio
-              profissional, emocional, acadêmico, dependendo de suas necessidades interiores. Os aspectos 
-              traumáticos derivados de vários momentos vivenciados, os quais o atormentavam e impediam o seu 
-              crescimento pessoal podem ser transformados e ressignificados.
+              autor e protagonista de sua história. Estou ali como uma coadjuvante para auxiliá-lo a seguir
+              e reencontrar seu próprio caminho. Ele irá ressignificar muito de seus pensamentos e a proposta 
+              é subir um degrau de cada vez para chegar ao pódio, seja este emocional, profissional, acadêmico 
+              e outras necessidades de seu emocional. Para ressignificar o seu interior e conhecer a sí próprio 
+              profundamente.
               </p>
             </Text>
           </AboutDescription>

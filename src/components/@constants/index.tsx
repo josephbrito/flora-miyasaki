@@ -9,6 +9,7 @@ import Doctoralia from 'assets/images/social/doctoralia.svg'
 import InstaProfile from 'assets/images/social/insta-profile.jpg'
 import InstagramWhite from 'assets/images/social/instagram-white.svg'
 import Instagram from 'assets/images/social/instagram.svg'
+import Gmail from 'assets/images/social/gmail-icon.svg'
 
 export {
   About,
@@ -21,5 +22,6 @@ export {
   Instagram,
   InstagramWhite,
   Logo,
-  Services
+  Services,
+  Gmail
 }

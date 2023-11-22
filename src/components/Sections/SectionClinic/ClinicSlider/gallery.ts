@@ -1,10 +1,8 @@
 import Gallery1 from 'assets/images/gallery/gallery-1.jpg'
 import Gallery2 from 'assets/images/gallery/gallery-2.jpg'
-import Gallery3 from 'assets/images/gallery/gallery-3.jpg'
 import Gallery4 from 'assets/images/gallery/gallery-4.jpg'
 import Gallery5 from 'assets/images/gallery/gallery-5.jpg'
 import Gallery6 from 'assets/images/gallery/gallery-6.jpg'
-import Gallery7 from 'assets/images/gallery/gallery-7.jpg'
 import { StaticImageData } from 'next/image'
 
 type GalleryItem = {
@@ -25,11 +23,6 @@ export const gallery: GalleryItem[] = [
     alt: 'Flora Miyazaki.'
   },
   {
-    id: 3,
-    src: Gallery3,
-    alt: 'Flora Miyazaki.'
-  },
-  {
     id: 4,
     src: Gallery4,
     alt: 'Flora Miyazaki.'
@@ -44,9 +37,5 @@ export const gallery: GalleryItem[] = [
     src: Gallery6,
     alt: 'Flora Miyazaki.'
   },
-  {
-    id: 7,
-    src: Gallery7,
-    alt: 'Flora Miyazaki.'
-  }
+  
 ]
