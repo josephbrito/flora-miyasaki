@@ -43,14 +43,6 @@ export function Footer() {
               <FooterNavLink href="#consultorio" scroll={false}>
                 Consultório
               </FooterNavLink>
-
-              <FooterNavLink href="#servicos" scroll={false}>
-                Serviços
-              </FooterNavLink>
-
-              <FooterNavLink href="#depoimentos" scroll={false}>
-                Depoimentos
-              </FooterNavLink>
             </FooterNav>
 
             <FooterSocialLinks>
@@ -98,7 +90,7 @@ export function Footer() {
           <Text size="xs">©{currentYear} - Psicoterapeuta Flora D.</Text>
 
           <Text size="xs">
-            Desenvolvido com ❤️ por 
+            Desenvolvido com ❤️ por {/* */}
             <TextLink
               size="xs"
               href="https://github.com/josephbrito"
