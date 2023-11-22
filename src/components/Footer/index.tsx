@@ -1,8 +1,6 @@
 import {
-  DoctoraliaWhite,
   FooterLogo,
   Gmail,
-  InstagramWhite
 } from 'components/@constants'
 import { Text } from 'components/Text'
 import { TextLink } from 'components/Text/TextLink'
@@ -60,7 +58,7 @@ export function Footer() {
                href={`https://wa.me/5511991705111?text=${message}`}
                title="Agendar consulta!"
                target="_blank"
-               style={{color:"#5bdd2f"}}
+               style={{ color:"#5bdd2f" }}
                rel="noopener noreferrer"
               >
             <WhatsappLogo size={24} weight="regular" style={{color:"#fff"}} />
@@ -72,7 +70,7 @@ export function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-              <Image src={Gmail} />
+              <Image src={Gmail} alt='Logo Gmail' />
 
               </FooterSocialLink>
 
@@ -92,19 +90,15 @@ export function Footer() {
               <strong>Telefone: </strong>
               +55 (11) 99170-5111
             </Text>
-            {/* <Text size="xs" color="gray1">
-              <strong>E-mail: </strong>
-              flora.miyasaki@gmail.com
-            </Text> */}
           </FooterRight>
         </FooterContent>
 
         <FooterEnd>
           <Text size="xs">Todos os direitos reservados.</Text>
-          <Text size="xs">©{currentYear} - Psicoterapeuta Flora D'.</Text>
+          <Text size="xs">©{currentYear} - Psicoterapeuta Flora D.</Text>
 
           <Text size="xs">
-            Desenvolvido com ❤️ por{' '}
+            Desenvolvido com ❤️ por 
             <TextLink
               size="xs"
               href="https://github.com/josephbrito"

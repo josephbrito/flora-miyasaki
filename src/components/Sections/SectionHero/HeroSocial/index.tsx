@@ -1,4 +1,4 @@
-import { Doctoralia, Gmail, Instagram } from 'components/@constants'
+import { Gmail } from 'components/@constants'
 import { Text } from 'components/Text'
 import Image from 'next/image'
 import {
@@ -7,7 +7,6 @@ import {
   HeroSocialLinks,
   HeroSocialWrapper
 } from './styles'
-import { ButtonLink } from 'components/Button/ButtonLink'
 import { WhatsappLogo } from 'phosphor-react'
 
 export function HeroSocial() {
@@ -45,7 +44,7 @@ export function HeroSocial() {
           rel="noopener noreferrer"
         >
 
-          <Image src={Gmail} />
+          <Image src={Gmail} alt='logo gmail' />
 
           <Text size="sm" color="white" weight="medium">
             floramiyasaki2
