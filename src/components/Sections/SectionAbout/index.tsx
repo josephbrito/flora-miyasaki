@@ -41,8 +41,7 @@ export function SectionAbout() {
               <p>
               Olá, eu sou Flora, psicoterapeuta. Escolhi esta profissão clínica por encontrar afinidade com minha personalidade.
               Para chegar a essa possibilidade de afirmar, com satisfação, que tenho mais de 20 anos de atendimento clínico.
-              Foi uma longa jornada. Escolhi exatamente essa profissão como forma de trilhar um caminho para auxiliar o próximo. 
-              Passei por várias instituições onde trabalhei, e na minha área sou tida como referência.
+              Foi uma longa jornada. Passei por várias instituições onde trabalhei, e na minha área sou tida como referência.
               </p>
             </Text>
 
