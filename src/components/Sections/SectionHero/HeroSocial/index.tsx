@@ -38,8 +38,8 @@ export function HeroSocial() {
           </HeroSocialLink>
 
         <HeroSocialLink
-          href="mailto:flora.miyasaki@gmail.com"
-          title="flora.miyasaki@gmail.com"
+          href="mailto:flora.psicoterapeuta@gmail.com"
+          title="flora.psicoterapeuta@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -15,8 +15,8 @@ export function SectionInstagram() {
         viewport={{ once: true }}
       >
         <InstaTitle
-          href="mailto:flora.miyasaki@gmail.com"
-          title="flora.miyasaki@gmail.com"
+          href="mailto:flora.psicoterapeuta@gmail.com"
+          title="flora.psicoterapeuta@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -28,7 +28,7 @@ export function SectionInstagram() {
           </InstaProfileImageWrapper>
 
           <Heading asChild size="md">
-            <h1>flora.miyasaki@gmail.com</h1>
+            <h1>flora.psicoterapeuta@gmail.com</h1>
           </Heading>
         </InstaTitle>
       </InstaWrapper>
