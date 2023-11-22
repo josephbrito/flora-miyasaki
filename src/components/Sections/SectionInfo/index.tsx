@@ -29,7 +29,7 @@ export function SectionInfo() {
               <InfotItem>
                 <Heading size="md" color='black'>Consulta Psicoterapeuta</Heading>
                 <Text color="gray1">- Psicanálise-freud</Text>
-                <Text color="gray1">- Psicologia analítica-jund</Text>
+                <Text color="gray1">- Psicologia analítica-jung</Text>
               </InfotItem>
 
               <InfotItem>
