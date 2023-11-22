@@ -36,14 +36,6 @@ export function Navbar() {
           <NavLink href="#consultorio" scroll={false}>
             Consultório
           </NavLink>
-
-          <NavLink href="#servicos" scroll={false}>
-            Serviços
-          </NavLink>
-
-          <NavLink href="#depoimentos" scroll={false}>
-            Depoimentos
-          </NavLink>
         </LinksWrapper>
 
         <NavbarDropdownMenu />
