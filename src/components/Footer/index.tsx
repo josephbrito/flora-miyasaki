@@ -57,8 +57,8 @@ export function Footer() {
               </FooterSocialLink>
 
               <FooterSocialLink
-                href="mailto:flora.miyasaki@gmail.com"
-                title="flora.miyasaki@gmail.com"
+                href="mailto:flora.psicoterapeuta@gmail.com"
+                title="flora.psicoterapeuta@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -81,6 +81,10 @@ export function Footer() {
             <Text size="xs" color="gray1">
               <strong>Telefone: </strong>
               +55 (11) 99170-5111
+            </Text>
+            <Text size="xs" color="gray1">
+              <strong>Email: </strong>
+              flora.psicoterapeuta@gmail.com
             </Text>
           </FooterRight>
         </FooterContent>
