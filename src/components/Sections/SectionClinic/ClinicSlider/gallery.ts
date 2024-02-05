@@ -6,15 +6,15 @@ import Gallery6 from 'assets/images/gallery/gallery-6.jpg'
 import { StaticImageData } from 'next/image'
 
 type GalleryItem = {
-  id: number
-  src: StaticImageData
-  alt: string
+  id: number;
+  src: StaticImageData;
+  alt: string;
 }
 
 export const gallery: GalleryItem[] = [
   {
     id: 1,
-    src: Gallery1,
+    src: Gallery6,
     alt: 'Flora Miyazaki.'
   },
   {
@@ -23,18 +23,18 @@ export const gallery: GalleryItem[] = [
     alt: 'Flora Miyazaki.'
   },
   {
-    id: 4,
+    id: 3,
     src: Gallery4,
     alt: 'Flora Miyazaki.'
   },
   {
-    id: 5,
+    id: 4,
     src: Gallery5,
     alt: 'Flora Miyazaki.'
   },
   {
-    id: 6,
-    src: Gallery6,
+    id: 5,
+    src: Gallery1,
     alt: 'Flora Miyazaki.'
   },
   
