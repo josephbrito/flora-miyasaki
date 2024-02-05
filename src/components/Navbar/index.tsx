@@ -29,12 +29,20 @@ export function Navbar() {
         </Link>
 
         <LinksWrapper>
+          <NavLink href="#inicio" scroll={false}>
+            Início
+          </NavLink>
+
           <NavLink href="#sobre" scroll={false}>
             Sobre
           </NavLink>
 
           <NavLink href="#consultorio" scroll={false}>
             Consultório
+          </NavLink>
+
+          <NavLink href="#final" scroll={false}>
+            Agendar
           </NavLink>
         </LinksWrapper>
 

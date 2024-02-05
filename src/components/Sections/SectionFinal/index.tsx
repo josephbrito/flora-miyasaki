@@ -14,7 +14,7 @@ export function SectionFinal() {
 
   return (
     <SectionContainer>
-      <FinalWrapper>
+      <FinalWrapper id='final'>
         <FinalContent
           initial={{ opacity: 0, x: '100%' }}
           whileInView={{ opacity: 1, x: 0 }}

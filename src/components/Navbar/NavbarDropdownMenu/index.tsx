@@ -18,12 +18,8 @@ export function NavbarDropdownMenu() {
         <DropdownMenuItem>Consultório</DropdownMenuItem>
       </Link>
 
-      <Link href="#servicos" scroll={false}>
-        <DropdownMenuItem>Serviços</DropdownMenuItem>
-      </Link>
-
-      <Link href="#depoimentos" scroll={false}>
-        <DropdownMenuItem>Depoimentos</DropdownMenuItem>
+      <Link href="#final" scroll={false}>
+        <DropdownMenuItem>Agendar</DropdownMenuItem>
       </Link>
     </DropdownMenu>
   )
