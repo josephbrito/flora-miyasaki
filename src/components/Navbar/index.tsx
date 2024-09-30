@@ -24,7 +24,7 @@ export function Navbar() {
             priority
             src={Logo}
             alt="Logotipo da psicoterapeuta Flora Miyazaki."
-            style={{marginBottom: '36px'}}
+            style={{maxHeight: 120, maxWidth:130}}
           />
         </Link>
 
