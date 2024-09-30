@@ -27,14 +27,16 @@ export function HeroSocial() {
 
       <HeroSocialLinks>
       <HeroSocialLink
-            href={`https://wa.me/5511991705111?text=${message}`}
+            href={`https://wa.me/5511994377210?text=${message}`}
             title="Agendar consulta!"
             target="_blank"
             style={{color:"#5bdd2f"}}
             rel="noopener noreferrer"
           >
             <WhatsappLogo size={24} weight="regular" />
-
+            <Text size="sm" color="white" weight="medium">
+            +55 (11) 99437-7210
+          </Text>
           </HeroSocialLink>
 
         <HeroSocialLink

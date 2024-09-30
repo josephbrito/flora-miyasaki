@@ -47,7 +47,7 @@ export function Footer() {
 
             <FooterSocialLinks>
               <FooterSocialLink
-               href={`https://wa.me/5511991705111?text=${message}`}
+               href={`https://wa.me/5511994377210?text=${message}`}
                title="Agendar consulta!"
                target="_blank"
                style={{ color:"#5bdd2f" }}
@@ -80,7 +80,7 @@ export function Footer() {
 
             <Text size="xs" color="gray1">
               <strong>Telefone: </strong>
-              +55 (11) 99170-5111
+              +55 (11) 99437-7210
             </Text>
             <Text size="xs" color="gray1">
               <strong>Email: </strong>

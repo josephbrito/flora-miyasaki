@@ -59,7 +59,7 @@ export function SectionClinic() {
           </ClinicDescription>
 
           <ButtonLink
-            href={`https://wa.me/5511991705111?text=${message}`}
+            href={`https://wa.me/5511994377210?text=${message}`}
             title="Agendar consulta!"
             target="_blank"
             size="lg"
