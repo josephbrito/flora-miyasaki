@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Psicoterapeuta Flora Miyazaki</title>
+        <title>Psicoterapeuta Flora</title>
       </Head>
 
       <Navbar />
