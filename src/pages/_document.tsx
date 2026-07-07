@@ -30,8 +30,8 @@ export default class MyDocument extends Document {
           <Favicon />
 
           <SEO
-            title="Flora Miyazaki - Psicoterapeuta"
-            description="Flora Miyazaki - Psicoterapeuta."
+            title="Flora - Psicoterapeuta"
+            description="Flora - Psicoterapeuta."
             url={process.env.NEXT_PUBLIC_URL}
           />
 
